@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! Nice to meet you! 👋
+
+I'm an aspiring software engineer, currently pursuing my Bachelor's degree in Computer Science at Toronto Metropolitan University.
+
+Feel free to browse my projects!
+
+![](https://komarev.com/ghpvc/?username=bencostas&color=blue)
 
 <!--
 **bencostas/bencostas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
